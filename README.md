@@ -1,2 +1,2 @@
 # datasciencecoursera
-datasciencecoursera Repo fcreated for Course Project LolaArg
+datasciencecoursera Repo created for Course Project by LolaArg
